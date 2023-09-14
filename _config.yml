@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mike"
+  name             : ""
   avatar           : "profile.png"
-  bio              : "Post-Doctoral Researcher in Cognitive Neurosience at Brown University"
-  location         : "Providence, Rhode Island, USA"
+  bio              : "Post-doctoral researcher at Brown University"
+  location         : "Providence, RI, USA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=sTuP35MAAAAJ"
