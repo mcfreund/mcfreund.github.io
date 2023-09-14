@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michael C Freund, PhD | About"
+title                    : "Michael C Freund, PhD"
 title_separator          : "-"
 name                     : &name "Mike Freund"
 description              : &description "Post-Doctoral Researcher in Cognitive Neurosience at Brown University"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : ""
   avatar           : "profile.png"
-  bio              : "Post-doctoral researcher at Brown University"
+  bio              : ""
   location         : "Providence, RI, USA"
   employer         :
   pubmed           :
