@@ -1,14 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "Cognitive control during selection and repair in word production"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-date: 2009-10-01
-venue: 'Journal 1'
-doi: 'https://academicpages.github.io/'
-authors: 'Freund, MC'
-paper: 'https://academicpages.github.io/'
-preprint: 'https://academicpages.github.io/'
-reviews: 'https://academicpages.github.io/'
-code: 'https://academicpages.github.io/'
-data: 'https://academicpages.github.io/'
+date: 2016-04-14
+venue: 'Language, Cognition, and Neuroscience'
+doi: '10.1080/23273798.2016.1157194'
+authors: 'Nozari, N, Freund MC, Breining, B, Rapp, B Gordon, B'
 ---
