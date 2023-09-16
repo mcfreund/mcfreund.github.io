@@ -44,8 +44,20 @@
         <p>{{ post.authors }} </p>
         <p> <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         <p>DOI: {{ post.doi }} </p>
+        {% if post.paper %}
+          <a href="{{ post.paper }}"><u>paper</u></a>
+        {% endif %}
+        {% if post.preprint %}
+          <a href="{{ post.preprint }}"><u>preprint</u></a>
+        {% endif %}
+        {% if post.reviews %}
+          <a href="{{ post.reviews }}"><u>reviews</u></a>
+        {% endif %}
         {% if post.code %}
-          <a href="{{ post.paperurl }}"><u>code</u></a>
+          <a href="{{ post.code }}"><u>code</u></a>
+        {% endif %}
+        {% if post.data %}
+          <a href="{{ post.data }}"><u>data</u></a>
         {% endif %}
       {% elsif post.date %}
        <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
