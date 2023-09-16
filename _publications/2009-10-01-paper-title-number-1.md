@@ -7,4 +7,8 @@ venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 authors: 'Freund, MC'
 code: 'https://academicpages.github.io/'
+paper: 'https://academicpages.github.io/'
+preprint: 'https://academicpages.github.io/'
+data: 'https://academicpages.github.io/'
+reviews: 'https://academicpages.github.io/'
 ---
