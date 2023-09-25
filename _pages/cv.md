@@ -61,8 +61,6 @@ Awards and Honors
 	
 * Cognitive, Computational, and Systems Neuroscience Pathway Fellow: 2018-2019, 2020-2021
 	* Graduate stipend funded by the McDonnell Center for Systems Neuroscience (WUSTL)
-	
-\end{rSection}
 
 
 Teaching
@@ -70,20 +68,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-
-Computational and Programming Skills
-====
-* Math and Statistics
-  * advanced: Linear & Hierarchical Models, Modern Multivariate Statistics
-  * intermediate: Linear Algebra, Calculus
-
-* Languages, development
-  * fluent: in R (base, tidyverse, data.table)
-  * intermediate: Python (NumPy, Scikit-learn, pandas), MATLAB, shell, git
-  * novice: Julia, C++
-
-* Neural time series analysis
-  * tools: AFNI, fMRIprep, Nipy (nipype, nibabel, nilearn), BrainIAK, MNE
-  * techniques: decoding, encoding, RSA; fMRI timeseries models; ERP; EEG time-frequency analysis
-
