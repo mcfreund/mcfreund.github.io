@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-To download a PDF of each paper, click on the "paper" link below the title.
+To download a PDF of each, click on the "paper" link below the title.
 
 To navigate to the online version, click on the title.
 
