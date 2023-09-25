@@ -23,10 +23,10 @@ Research Experience
 	* PI: Dr. David Badre ([website](https://sites.brown.edu/badrelab/))
 
 * Graduate Student Researcher: 2017-2023
-  * WUSTL, *Psychological & Brain Sciences*
-  * PI: Dr. Todd Braver ([website](https://sites.wustl.edu/ccplab/))
+	* WUSTL, *Psychological & Brain Sciences*
+	* PI: Dr. Todd Braver ([website](https://sites.wustl.edu/ccplab/))
 
-* Research Assistant: 2014-2017
+* Research Technician / Lab Manager: 2014-2017
 	* Johns Hopkins, *Neurology* and *Cognitive Science*
 	* PI: Dr. Nazbanou Nozari ([website](https://www.nozarilab.com))
 
@@ -52,11 +52,12 @@ Talks
 Awards and Honors
 ====
 
-* Dissertation Research Award Winner: 2021
-	* $1k awarded towards dissertation project (WUSTL Psychology & Brain Sciences Department)
-	
-* T32 Fellow: 2021-2022
-	* Graduate stipend funded by NIH T32 Award (WUSTL Psychology & Brain Sciences)
-	
-* Cognitive, Computational, and Systems Neuroscience Pathway Fellow: 2018-2019, 2020-2021
-	* Graduate stipend funded by the McDonnell Center for Systems Neuroscience (WUSTL)
+* Dissertation Research Award Winner (2021)
+	* $1k awarded towards dissertation project (WUSTL)
+
+ 
+* <a href="https://psychaging.wustl.edu/" target="_blank">NIH T32 Fellow</a> (2021-2022)
+	* Graduate stipend funded by NIH Aging & Development Training Grant (WUSTL)
+
+* <a href="https://sites.wustl.edu/systemsneuroscience/ccsn-pathway/" target="_blank">CCSN Pathway</a> Fellow (2018-2019, 2020-2021)
+	* Graduate stipend funded by the McDonnel Center for Systems Neuroscience (WUSTL)
