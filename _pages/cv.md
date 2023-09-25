@@ -14,7 +14,7 @@ For full CV, see PDF [here](/files/freund_cv.pdf).
 Education
 ======
 * Ph.D. in Cognitive Neuroscience, Washington University in St. Louis (*WUSTL*), 2023
-* B.A.s in Psychology and Zoology, University of Wisconsin--Madison \hfill \bf 2013
+* B.A.s in Psychology and Zoology, University of Wisconsin--Madison, 2013
 
 Research Experience
 ======
