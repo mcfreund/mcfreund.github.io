@@ -60,11 +60,3 @@ Awards and Honors
 	
 * Cognitive, Computational, and Systems Neuroscience Pathway Fellow: 2018-2019, 2020-2021
 	* Graduate stipend funded by the McDonnell Center for Systems Neuroscience (WUSTL)
-
-
-[//]: # (Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-)
