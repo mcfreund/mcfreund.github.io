@@ -9,7 +9,7 @@ To download a PDF of each, click on the "paper" link below the title.
 
 To navigate to the online version, click on the title.
 
-You can also find my articles on <a href="https://scholar.google.com/citations?user=sTuP35MAAAAJ&hl=en" target="_blank">my Google Scholar profile</a>.
+You can also find my publications on <a href="https://scholar.google.com/citations?user=sTuP35MAAAAJ&hl=en" target="_blank">my Google Scholar profile</a>.
 
 
 {% if author.googlescholar %}
