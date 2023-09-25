@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-* To navigate to the online version of the article, click on the title
 * To download a PDF of each paper, click on the "paper" link below the title
+* To navigate to the online version, click on the title link
 * You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=sTuP35MAAAAJ&hl=en)
 
 {% if author.googlescholar %}
