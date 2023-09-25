@@ -35,8 +35,7 @@ Research Experience
 	* PI: Dr. Bradley Postle ([website](https://postlab.psych.wisc.edu/))
 
 * Undergraduate Research Assistant: 2012
-	* University of Wisconsin-Madison, *Psychology*
-	* PI: Dr. Bradley Postle ([website](https://postlab.psych.wisc.edu/))
+	* Harlow Primate Laboratory
 
 Publications
 ======
