@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2016-cogsci.md
 venue: "Cognitive Science Society"
-date: 2016
+date: 2016-01-01
 location: "Philadelphia, PA"
 ---
 

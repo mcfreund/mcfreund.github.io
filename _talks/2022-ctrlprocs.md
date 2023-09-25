@@ -3,7 +3,7 @@ title: "Examining the psychometrics of control-related fMRI activity in frontopa
 collection: talks
 type: "Datablitz Talk"
 permalink: /talks/2022-ctrlprocs
-venue: "Control Processes (remote conference)"
-date: 2022
+venue: "Control Processes"
+date: 2022-01-01
 location: "remote"
 ---
