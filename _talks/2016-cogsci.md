@@ -2,7 +2,7 @@
 title: "Conflict-based regulation of control in language production"
 collection: talks
 type: "Talk"
-permalink: /talks/2016-cogsci
+permalink: /talks/2016-cogsci.md
 venue: "Cognitive Science Society"
 date: 2016
 location: "Philadelphia, PA"
