@@ -7,34 +7,36 @@ redirect_from:
   - /resume
 ---
 
+For full CV, see PDF [here](/files/freund_cv.pdf).
+
 {% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Cognitive Neuroscience, Washington University in St. Louis (*WUSTL*), 2023
+* B.A.s in Psychology and Zoology, University of Wisconsin--Madison \hfill \bf 2013
 
-Work experience
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Post-doctoral Fellow: 2023-Present
+	* Brown University, *Cognitive, Linguistic, & Psychological Sciences*
+	* PI: Dr. David Badre ([website](https://sites.brown.edu/badrelab/))
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Graduate Student Researcher: 2017-2023
+  * WUSTL, *Psychological & Brain Sciences*
+  * PI: Dr. Todd Braver ([website](https://sites.wustl.edu/ccplab/))
+
+* Research Assistant: 2014-2017
+	* Johns Hopkins, *Neurology* and *Cognitive Science*
+	* PI: Dr. Nazbanou Nozari ([website](https://www.nozarilab.com))
+
+* Undergraduate Research Assistant: 2011-2013
+	* University of Wisconsin--Madison, *Psychology*
+	* PI: Dr. Bradley Postle ([website](https://postlab.psych.wisc.edu/))
+
+* Undergraduate Research Assistant: 2012
+	* University of Wisconsin-Madison, *Psychology*
+	* PI: Dr. Bradley Postle ([website](https://postlab.psych.wisc.edu/))
 
 Publications
 ======
@@ -47,13 +49,41 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
+Awards and Honors
+====
+
+* Dissertation Research Award Winner: 2021
+	* $1k awarded towards dissertation project (WUSTL Psychology & Brain Sciences Department)
+	
+* T32 Fellow: 2021-2022
+	* Graduate stipend funded by NIH T32 Award (WUSTL Psychology & Brain Sciences)
+	
+* Cognitive, Computational, and Systems Neuroscience Pathway Fellow: 2018-2019, 2020-2021
+	* Graduate stipend funded by the McDonnell Center for Systems Neuroscience (WUSTL)
+	
+\end{rSection}
+
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
+Computational and Programming Skills
+====
+* Math and Statistics
+  * advanced: Linear & Hierarchical Models, Modern Multivariate Statistics
+  * intermediate: Linear Algebra, Calculus
+
+* Languages, development
+  * fluent: in R (base, tidyverse, data.table)
+  * intermediate: Python (NumPy, Scikit-learn, pandas), MATLAB, shell, git
+  * novice: Julia, C++
+
+* Neural time series analysis
+  * tools: AFNI, fMRIprep, Nipy (nipype, nibabel, nilearn), BrainIAK, MNE
+  * techniques: decoding, encoding, RSA; fMRI timeseries models; ERP; EEG time-frequency analysis
+
