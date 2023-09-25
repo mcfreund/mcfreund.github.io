@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-For full CV, see PDF [here](/files/freund_cv.pdf).
+View my full CV <a href="/files/freund_cv.pdf" target="_blank">here (pdf)</a>.
 
 {% include base_path %}
 
