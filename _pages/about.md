@@ -8,8 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doctoral researcher at Brown University, where I study human prefrontal cortex and the mental flexibility that it supports.
 
-I recently earned a PhD in Cognitive Neuroscience from Washington University in St. Louis. There, I focused on studying how we are able to override habitual or "automatic" behaviors, using fMRI, EEG, and a range of computational and statistical modeling methods. Before that, I was a research tech in a Johns Hopkins Neurology lab, where I worked with individuals who had suffered strokes, examining their patterns of impairments in language production and cognitive control. And before that, I was an undergrad at University of Wisconsin--Madison, where I first learned about working memory, visual attention, and the joy of studying the brain.
+I am a post-doctoral researcher at Brown University, where I study human prefrontal cortex and the mental flexibility it supports.
 
-Please <a href="https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/people/postdoc/michael-freund" target="_blank">reach out</a> with questions about my research, code, or data, to request my service in peer review, or just to connect!
+I earned a Ph.D. in Cognitive Neuroscience at Washington University in St. Louis. There, I studied how prefrontal cortex enables us to "override" habitual or automatic behaviors. To do this, I used highly controlled experiments, non-invasive neuroimaging methods (fMRI and EEG), and a range of computational modeling methods.
+
+Before my Ph.D, I worked with stroke survivors at Johns Hopkins Neurology, studying their patterns of impariments in language production and in cognitive control.
+
+My journey in neuroscience began at University of Wisconsin--Madison, where I first learned about working memory, visual attention, and the joys of studying the brain.
+
+<a href="https://www.brown.edu/academics/cognitive-linguistic-psychological-sciences/people/postdoc/michael-freund" target="_blank">Contact me</a> for questions on my research, code, or data. Or for peer review. Or just to connect!
