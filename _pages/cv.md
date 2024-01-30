@@ -18,7 +18,7 @@ Education
 
 Research Experience
 ======
-* Post-doctoral Fellow: 2023-Present
+* Post-Doctoral Researcher: 2023-Present
 	* Brown University, *Cognitive, Linguistic, & Psychological Sciences*
 	* PI: Dr. David Badre ([website](https://sites.brown.edu/badrelab/))
 
