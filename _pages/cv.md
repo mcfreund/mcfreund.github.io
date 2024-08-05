@@ -54,6 +54,7 @@ Awards and Honors
 
 * <a href="https://ccbs.carney.brown.edu/brainstorm" target="_blank">Winner of BRAINSTORM Challenge 2024</a>
 	* $1.5k cash prize awarded to my team for <a href="https://github.com/mcfreund/seeg-replay" target="_blank">our project</a> examining correlates of associative memory encoding in sEEG data, by the Center for Computational Brain Science at Brown Univ.
+ 	* See <a href="https://www.brown.edu/carney/news/2024/08/05/carney%E2%80%99s-brainstorm-program-hosts-its-second-annual-brainstorm-challenge-awards" target="_blank">press release</a>
 
 * Dissertation Research Award Winner (2021)
 	* $1k awarded towards dissertation project (WUSTL)
